@@ -30,8 +30,6 @@ Users should be able to:
 ![](./screenshot.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://anle9650.github.io/crowdfunding-product-page-main/](https://anle9650.github.io/crowdfunding-product-page-main/)
 
 ## My process
